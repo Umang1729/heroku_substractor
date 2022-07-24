@@ -16,4 +16,5 @@ def user_input_features():
            }
     return data
 data = user_input_features()
-st.write(f"Result is  {data['A']- data['B']}")
+result = data['A'] - data['B']
+st.write(f"\n Result is {result}")
