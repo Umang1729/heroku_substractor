@@ -1,4 +1,4 @@
 protobuf==3.20.0
 numpy==1.22.4
 streamlit==0.76.0
-
+click==7.1.2
